@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="top_title_icon_array">
+        <item>@drawable/about_me</item>
+        <item>@drawable/about_me_green</item>
+        <item>@drawable/discover</item>
+        <item>@drawable/discover_green</item>
+        <item>@drawable/contacts</item>
+    </array>
+
+    <string-array name="main_menu_title_array">
+        <item>@string/app_name</item>
+        <item>@string/app_name</item>
+        <item>@string/app_name</item>
+        <item>@string/app_name</item>
+        <item>@string/app_name</item>
+
+    </string-array>
+
+    <string-array name="bottom_title_array">
+        <item>@string/skill</item>
+        <item>@string/education</item>
+        <item>@string/wheat</item>
+        <item>@string/life</item>
+    </string-array>
+
+    <integer-array name="bottom_title_color_array">
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark</item>
+    </integer-array>
+</resources>
