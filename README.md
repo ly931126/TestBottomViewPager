@@ -5,7 +5,7 @@
 - [参考链接](https://github.com/Kelin-Hong/MVVMLight)
 
 - 演示
-<img src="bottomViewpager.gif" width="480px"  height="800px"/>
+- <img src="bottomViewpager.gif" width="480px"  height="800px"/>
 - 代码如下
 ```
 buildscript {
